@@ -38,3 +38,5 @@ Entrambi i modi hanno lo stesso risultato, ma il secondo rende pià ordinato il 
 
 ## Incatenare i selettori
 In questo modo si può dire al file CSS di selezionare solamente gli elementi che hanno una classe E un'altra classe. Una specie di AND. Si possono incantenare anche classi e id, l'importante è che facciano parte dello stesso tag HTML (non si possono incatenare due classi che per es. una appartiene a un <div> e l'altra a un <p>). Per farlo si scrivono i selettori non separati da niente.
+
+## 
